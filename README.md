@@ -1,3 +1,20 @@
+# AmsterdamLore
+
+AmsterdamLore.com is a city‐centric web experience where locals and travelers share canal-side tales, hidden street art, and poetic reflections — through stories, photos, videos, and poems. This project is built using **React + Vite** with modern, elegant UI based on brand guidelines.
+
+## 🌐 Live Demo
+[https://amsterdamlore.vercel.app](https://amsterdamlore.vercel.app) *(update after deployment)*
+
+## 🚀 Tech Stack
+- ⚛️ React + Vite
+- 🎨 TailwindCSS
+- 🖋️ Google Fonts: Playfair Display & Lora
+- ☁️ Vercel (deployment)
+- 🧠 MongoDB Atlas (serverless API)
+
+## 📁 Project Structure
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
